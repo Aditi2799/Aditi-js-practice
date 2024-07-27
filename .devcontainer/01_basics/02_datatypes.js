@@ -16,4 +16,4 @@ let name="Aditi"
 //object()
 console.log(typeof "value");
 console.log(typeof undefined);//undefined
-console.log(typeof null);//object
+console.log(typeof null);
