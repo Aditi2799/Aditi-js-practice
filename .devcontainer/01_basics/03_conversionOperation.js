@@ -25,3 +25,11 @@ console.log(typeof isLoggedIn);
 let name= "33"
 let stringName= String(name);
 console.log(typeof name);
+
+//===========================operation==============================
+
+let value=3
+let negValue= -value
+console.log(negValue)
+
+
